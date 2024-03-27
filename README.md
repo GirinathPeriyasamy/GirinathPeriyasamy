@@ -30,11 +30,3 @@ Successful Software Engineer having experience of 7 years in Embedded Software D
 <a href="http://www.github.com/GirinathPeriyasamy"><img src="https://github-readme-stats.vercel.app/api?username=GirinathPeriyasamy&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ef4444&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="GirinathPeriyasamy's GitHub stats" /></a>
 
 <a href="http://www.github.com/GirinathPeriyasamy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GirinathPeriyasamy&stroke=ef4444&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ef4444&currStreakLabel=3382ed&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
-
-<a href="http://www.github.com/GirinathPeriyasamy"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GirinathPeriyasamy&bg_color=000000&color=ef4444&line=3382ed&point=ef4444&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/GirinathPeriyasamy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirinathPeriyasamy&langs_count=10&title_color=3382ed&text_color=ef4444&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
