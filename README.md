@@ -9,7 +9,7 @@ Successful Software Engineer having experience of 7 years in Embedded Software D
 * 🌍  I'm based in India
 * ✉️  You can contact me at [girinathperiyasamy@gmail.com](mailto:girinathperiyasamy@gmail.com)
 * 🧠  I'm learning Full Stack Development
-* ⚡  I am IronMan
+* ⚡  Always ready to Learn
 
 ### Skills
 
